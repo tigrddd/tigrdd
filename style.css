@@ -90,3 +90,41 @@ body {
     width: 100%;
     margin: 0px auto;
 }
+.square_1 { 
+    background-color: #ffffff;
+    width: 1350px;
+    height: 5000px; 
+    border-radius: 16px;
+    display: flex;
+    transform: translateX(40px)
+}
+.css-1fbgjrz {
+    position: relative;
+    width: fit-content;
+    max-width: 100%;
+    border-radius: 8px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border: 1px solid rgb(190, 194, 204);
+    color: rgb(20, 26, 39);
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    margin-right: 16px;
+    height: 100px;
+}
+.css-re3l1m {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+}
